@@ -12,10 +12,9 @@
 */
 
 /*
-    정답
+    정답 : 2)
     1) number
-    2) number
+    [2) number]
     3) string
     4) object
-
 */
